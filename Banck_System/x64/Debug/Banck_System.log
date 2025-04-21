@@ -1,0 +1,63 @@
+﻿  Bank_System.cpp
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsUtility.h(14,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsUsers.h(572,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_System.cpp')
+      C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsUsers.h(409,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsInputValidate.h(112,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsBankClient.h(30,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsBankClient.h(308,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsWithdraw.h(50,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsTransfer.h(64,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsTransfer.h(69,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsBalanceScreen.h(46,85): warning C4244: 'argument': conversion from 'float' to '__int64', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsCurrency.h(28,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsCurrencyCalculatorScreen.h(55,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsCurrencyCalculatorScreen.h(60,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsCurrencyCalculatorScreen.h(64,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_System.cpp')
+  
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsBankClient.h(249,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\mahmu\source\repos\Banck_System\Banck_System\clsUsers.h(730,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Banck_System.vcxproj -> C:\Users\mahmu\source\repos\Banck_System\x64\Debug\Bank_System.exe
